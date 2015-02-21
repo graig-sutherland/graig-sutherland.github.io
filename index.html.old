@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html> <head>
+<title>Graig Sutherland</title>
+</head>
+
+<body>
+
+
+<div id="header"><h1>Graig Sutherland</h1></div>
+  <div id="info" style="width=200px;float:left;">
+  <p>
+    <b>Contact Info</b><br>
+School of Physics<br>
+NUI Galway<br>
+    University Road <br>
+ +353 91 492986 <br>
+graig.sutherland@nuigalway.ie
+</p>
+    
+  </div>
+  <div id="headshot" style="width:200px:float:left;">
+<img src="figs/GSutherland_profpic.jpg" /></img><br>
+    </div>
+
+<div id="about me" style="width:200px:float:left;">  
+<p>
+<h4>About Me</h2>
+I have recently finished my PhD with <a
+href="http://www.nuigalway.ie/physics/staff_pages/b_ward/index.html">Dr. Brian
+Ward</a> in the <a href="http://www.airsea.nuigalway.ie">Air Sea
+Laboratory</a> at <a
+href="http://www.nuigalway.ie">NUI Galway</a>
+</p>
+  </div>
+  
+</br>
+  
+  <div id="research" style="width:500px;float:left;">
+<p>
+<h4>Research Interests</h2>
+</p>
+</div>
+
+</body> </html>
