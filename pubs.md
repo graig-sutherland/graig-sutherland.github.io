@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /pubs/
+order: 2
 ---
 
 ### In review

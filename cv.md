@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+order: 1
 ---
 
 Here you will find a link to my [CV](GJSutherland_CV.pdf) and [Google Scholar](https://scholar.google.no/citations?user=ChCG72gAAAAJ&hl=en) page. A short version is shown below.

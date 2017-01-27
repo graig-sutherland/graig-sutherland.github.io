@@ -2,6 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
+order: 3
 ---
 
 Here is a page of some of my favourite links:

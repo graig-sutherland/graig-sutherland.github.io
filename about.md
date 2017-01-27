@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 4
 ---
 
 I am a physical oceanographer living in Oslo with my [wife](http://jessicabrouder.org) and two children. My journey to Oslo started in Victoria BC, where I was born, with stops in Montr&#x00E9;al, St. John's, Berlin and Galway.
