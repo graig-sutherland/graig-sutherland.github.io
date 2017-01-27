@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a Canadian physical oceanographer living in Oslo.
+I am a physical oceanographer living in Oslo with my [wife](http://jessicabrouder.org) and two children. My journey to Oslo started in Victoria BC, where I was born, with stops in Montreal, St. John's, Berlin and Galway.
 
-![Me](/about/IMG_4501.JPG)
+![Me](IMG_4501.JPG)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) -->
 

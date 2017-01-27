@@ -18,6 +18,21 @@
 
 
   <body>
+<!-- mathjax config similar to math.stackexchange -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$']],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
     <header class="site-header" role="banner">
 
@@ -73,9 +88,9 @@
   </header>
 
   <div class="post-content">
-    <p>I am a Canadian physical oceanographer living in Oslo.</p>
+    <p>I am a physical oceanographer living in Oslo with my <a href="http://jessicabrouder.org">wife</a> and two children. My journey to Oslo started in Victoria BC, where I was born, with stops in Montreal, St. John’s, Berlin and Galway.</p>
 
-<p><img src="/about/IMG_4501.JPG" alt="Me" /></p>
+<p><img src="IMG_4501.JPG" alt="Me" /></p>
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) -->
 

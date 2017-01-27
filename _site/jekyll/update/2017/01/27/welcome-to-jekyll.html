@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>My first post</title>
-  <meta name="description" content="This is my first post. I will be putting up research related information up here from time to time. Please refer to my CV for recent publications.">
+  <meta name="description" content="This is my first post. I will be putting up research related information up here from time to time. Please refer to my CV for recent publications. I will be ...">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="http://localhost:4000/jekyll/update/2017/01/27/welcome-to-jekyll.html">
@@ -18,6 +18,21 @@
 
 
   <body>
+<!-- mathjax config similar to math.stackexchange -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$']],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
     <header class="site-header" role="banner">
 
@@ -74,7 +89,7 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <p>This is my first post. I will be putting up research related information up here from time to time. Please refer to my <a href="/cv/">CV</a> for recent publications.</p>
+    <p>This is my first post. I will be putting up research related information up here from time to time. Please refer to my <a href="/cv/">CV</a> for recent publications. I will be starting a new position at the Norwegian Meteorological Institute (<a href="http://met.no">met.no</a>) in February.</p>
 
 
   </div>

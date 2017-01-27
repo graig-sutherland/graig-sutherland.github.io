@@ -18,6 +18,21 @@
 
 
   <body>
+<!-- mathjax config similar to math.stackexchange -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  jax: ["input/TeX", "output/HTML-CSS"],
+  tex2jax: {
+    inlineMath: [ ['$', '$'] ],
+    displayMath: [ ['$$', '$$']],
+    processEscapes: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  },
+  messageStyle: "none",
+  "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+});
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 
     <header class="site-header" role="banner">
 
@@ -73,7 +88,16 @@
   </header>
 
   <div class="post-content">
-    <p>Research intestests include, but are not limited, to air-sea interaction, autonomous observational systems, boundary layer physics, turbulence, mixing, waves, wave-ice and wave-current interactions, observational oceanography, tidal dynamics, data assimilation. Here is a link to my <a href="GJSutherland_CV.pdf">CV</a> and <a href="https://scholar.google.no/citations?user=ChCG72gAAAAJ&amp;hl=en">Google Scholar</a> page.</p>
+    <p>Here you will find a link to my <a href="GJSutherland_CV.pdf">CV</a> and <a href="https://scholar.google.no/citations?user=ChCG72gAAAAJ&amp;hl=en">Google Scholar</a> page.</p>
+
+<h2 id="professional-experience">Professional Experience</h2>
+<ul>
+  <li>2017-present,  Research Scientist, Norwegian Meteorological Institute, Oslo, Norway</li>
+  <li>2014-2017,  Postdoctoral Fellow, Department of Mathematics, University of Oslo, Norway</li>
+  <li>2009-2010,  Physical Oceanographer, Oceans Ltd. St. John’s, Canada.</li>
+  <li>2005-2006,  Research Assistant, Korean Ocean Resarch and Development Institute, South Korea.</li>
+  <li>2003-2005, Research Assistant, Ocean Sciences and Productivity, Institute of Ocean Sciences, Department of Fisheries and Oceans Canada, Patricia Bay, Canada.</li>
+</ul>
 
 <h2 id="education">Education</h2>
 <ul>
@@ -81,7 +105,6 @@
   <li>MSc, Physical Oceanography, Memorial University of Newfoundland and Labrador</li>
   <li>BSc, Physics and Ocean Sciences with Mathematics minor, University of Victoria</li>
 </ul>
-
 
   </div>
 
