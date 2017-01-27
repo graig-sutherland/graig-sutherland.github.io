@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a Canadian physical oceanographer living in Oslo.
 
-![Me](IMG_4501.JPG)
+![Me](/about/IMG_4501.JPG)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) -->
 
