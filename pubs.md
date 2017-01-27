@@ -1,30 +1,14 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Publications
+permalink: /pubs/
 ---
 
-Here you will find a link to my [CV](GJSutherland_CV.pdf) and [Google Scholar](https://scholar.google.no/citations?user=ChCG72gAAAAJ&hl=en) page. A short version is shown below.
-
-### Professional Experience
-* 2017-present,  Research Scientist, Norwegian Meteorological Institute, Oslo, Norway
-* 2014-2017,  Postdoctoral Fellow, Department of Mathematics, University of Oslo, Norway 
-* 2009-2010,  Physical Oceanographer, Oceans Ltd. St. John's, Canada. 
-* 2005-2006,  Research Assistant, Korean Ocean Resarch and Development Institute, South Korea.
-* 2003-2005, Research Assistant, Ocean Sciences and Productivity, Institute of Ocean Sciences, Department of Fisheries and Oceans Canada, Patricia Bay, Canada.
-
-### Education
-* PhD, Ocean Physics, National University of Ireland, Galway
-* MSc, Physical Oceanography, Memorial University of Newfoundland and Labrador
-* BSc, Physics and Ocean Sciences with Mathematics minor, University of Victoria
-
-### Publications
-
-#### In review
+### In review
 * **Sutherland, G.**, J. Rabault and A. Jensen. A new method to measure reflection and directional spread from accelerometers on sea ice. Submitted to the *Journal of Atmospheric and Oceanic Technology*.
 * Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward. Parameterizing air-sea gas transfer with dissipation. Under review in *Journal of Geophysical Research: Oceans*.
 
-#### Refereed
+### Refereed
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. *Journal of Glaciology*. Accepted.
 0. **Sutherland G.**, T. Halsne, J. Rabault and A. Jensen (2017). The attenuation of monochromatic surface waves due to the presence of an inextensible cover. *Wave Motion*. 68, 88-96.
 0. **Sutherland G.**, L. Mari&#x00E9;, G. Reverdin, K. Christensen, G. Brostr&#x00F6;m and B. Ward (2016). Enhanced turbulence associated with the diurnal jet in the ocean surface boundary layer. *Journal of Physical Oceanography*. 46(10), 3051-3067.
@@ -43,7 +27,7 @@ Here you will find a link to my [CV](GJSutherland_CV.pdf) and [Google Scholar](h
 0. Foreman M.G.G., **G. Sutherland**, P.F. Cummins (2004).  M2 tidal dissipation around Vancouver Island: an inverse approach.  *Continential Shelf Research*, 24(18), 2167-2185.
 {: reversed="reversed"}
 
-#### Non-refereed
+### Non-refereed
 0. Foreman, M.G.G., L. Beauchemin, J.Y. Cherniawsky, M. A. P&#x00E9;a, P. F. Cummins, and **G. Sutherland** (2005). A review of models
  in support of oil and gas exploration off the north coast of British Columbia. *Can. Tech. Rep. Fish. Aquat. Sci.* 2712: v + 58p.
 0. Rohr K.M.M. and **G. Sutherland**.  A Reconnaissance AVO Study of the Queen Charlotte Basin. *CEOR Report 2002-3*. 
