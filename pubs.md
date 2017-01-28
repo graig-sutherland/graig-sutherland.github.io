@@ -6,9 +6,8 @@ order: 2
 ---
 
 ### In review
-0. **Sutherland, G.**, J. Rabault and A. Jensen. A new method to measure reflection and directional spread from accelerometers on sea ice. Submitted to the *Journal of Atmospheric and Oceanic Technology*.
-0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward. Parameterizing air-sea gas transfer with dissipation. Under review in *Journal of Geophysical Research: Oceans*.
-{: reversed="reversed"}
+- **Sutherland, G.**, J. Rabault and A. Jensen. A new method to measure reflection and directional spread from accelerometers on sea ice. Submitted to the *Journal of Atmospheric and Oceanic Technology*.
+- Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward. Parameterizing air-sea gas transfer with dissipation. Under review in *Journal of Geophysical Research: Oceans*.
 
 ### Refereed
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. *Journal of Glaciology*. Accepted.

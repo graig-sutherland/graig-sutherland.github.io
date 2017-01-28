@@ -16,7 +16,7 @@
 title: Graig Sutherland
 email: graigorys@met.no
 description: > # this means to ignore newlines until "baseurl:"
-  Physical oceanographer interested in air-sea interaction. I like waves. 
+  Physical oceanographer interested in air-sea interaction. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GraigoryJohn
@@ -27,6 +27,21 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# add some configuration for jekyll-archives
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
