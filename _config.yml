@@ -27,21 +27,20 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
 
-# add some configuration for jekyll-archives
-jekyll-archives:
-  enabled:
-    - year
-    - month
-    - tags
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+# # add some configuration for jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - year
+#     - month
+#     - tags
+#   layout: 'archive'
+#   permalinks:
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
