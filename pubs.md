@@ -11,12 +11,12 @@ order: 2
 
 ### Refereed
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. *Journal of Glaciology*. Accepted.
-0. **Sutherland G.**, T. Halsne, J. Rabault and A. Jensen (2017). The attenuation of monochromatic surface waves due to the presence of an inextensible cover. *Wave Motion*. 68, 88-96.
-0. **Sutherland G.**, L. Mari&#x00E9;, G. Reverdin, K. Christensen, G. Brostr&#x00F6;m and B. Ward (2016). Enhanced turbulence associated with the diurnal jet in the ocean surface boundary layer. *Journal of Physical Oceanography*. 46(10), 3051-3067.
+0. **Sutherland G.**, T. Halsne, J. Rabault and A. Jensen (2017). The attenuation of monochromatic surface waves due to the presence of an inextensible cover. [*Wave Motion*](http://www.sciencedirect.com/science/article/pii/S0165212516301202). 68, 88-96.
+0. **Sutherland G.**, L. Mari&#x00E9;, G. Reverdin, K. Christensen, G. Brostr&#x00F6;m and B. Ward (2016). Enhanced turbulence associated with the diurnal jet in the ocean surface boundary layer. [*Journal of Physical Oceanography*](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-15-0172.1). 46(10), 3051-3067.
 0. Rabault J., **G. Sutherland**, B. Ward, K.H. Christensen, T. Halsne and A. Jensen (2016). Measurements of waves in
   landfast ice using inertial motion units. *IEEE Transactions on Geoscience and Remote Sensing*. 54(11), 6399-6408.
-0. **Sutherland G.** and J. Rabault (2016). Observations of wave dispersion and attenuation in landfast ice. *Journal of Geophysical Research: Oceans*. doi:10.1002/2015JC011446.
-0. Reverdin, G., S. Morisset, L. Mari&#x00E9;, D. Bourras, **G. Sutherland**, B. Ward, J. Salvador, J. Font, Y. Cuypers, L. Centurioni, V. Hormann, N. Koldziejczyk, J. Boutin, F. D'Ovidio, F. Nencioli, N. Martin, D. Diverres, G. Alory and R. Lumpkin (2015). Surface salinity in the North Atlantic subtropical gyre during the Strasse/SPURS summer 2012 cruise. *Oceanography*. 28(1), 114-123.
+0. **Sutherland G.** and J. Rabault (2016). [Observations of wave dispersion and attenuation in landfast ice. [*Journal of Geophysical Research: Oceans*](http://onlinelibrary.wiley.com/doi/10.1002/2015JC011446/full). doi:10.1002/2015JC011446.
+0. Reverdin, G., S. Morisset, L. Mari&#x00E9;, D. Bourras, **G. Sutherland**, B. Ward, J. Salvador, J. Font, Y. Cuypers, L. Centurioni, V. Hormann, N. Koldziejczyk, J. Boutin, F. D'Ovidio, F. Nencioli, N. Martin, D. Diverres, G. Alory and R. Lumpkin (2015). Surface salinity in the North Atlantic subtropical gyre during the Strasse/SPURS summer 2012 cruise. [*Oceanography*](http://tos.org/oceanography/article/surface-salinity-in-the-north-atlantic-subtropical-gyre-during-the-strasse-). 28(1), 114-123.
 0. **Sutherland G.**, G. Reverdin, L. Mari&#x00E9; and B. Ward (2014). Mixed and mixing layer depths in the ocean surface boundary layer under conditions of diurnal stratification. *Geophysical Research Letters*. 41(23), 8469-8476.
 0. Ward B., T. Fristedt, A.H. Callaghan, **G. Sutherland**, X. Sanchez, J. Vialard and A. ten Doeschate (2014). The Air-Sea Interaction Profiler (ASIP): An autonomous upwardly-rising profiler for microstructure measurements in the upper ocean. *Journal of Atmospheric and Oceanic Technology*. 31(10), 2246-2267
 0. **Sutherland G.**, K.H. Christensen and B. Ward (2014). Evaluating Langmuir turbulence parameterizations in the ocean surface boundary layer. *Journal of Geophysical Research: Oceans*. 119(3), 1899-1910.
@@ -31,5 +31,5 @@ order: 2
 ### Non-refereed
 0. Foreman, M.G.G., L. Beauchemin, J.Y. Cherniawsky, M. A. P&#x00E9;a, P. F. Cummins, and **G. Sutherland** (2005). A review of models
  in support of oil and gas exploration off the north coast of British Columbia. *Can. Tech. Rep. Fish. Aquat. Sci.* 2712: v + 58p.
-0. Rohr K.M.M. and **G. Sutherland**.  A Reconnaissance AVO Study of the Queen Charlotte Basin. *CEOR Report 2002-3*. 
+0. Rohr K.M.M. and **G. Sutherland** (2002).  A Reconnaissance AVO Study of the Queen Charlotte Basin. *CEOR Report 2002-3*. 
 {: reversed="reversed"}

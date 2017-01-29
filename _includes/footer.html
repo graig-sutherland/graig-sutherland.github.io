@@ -8,12 +8,13 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
+            {% if site.subtitle %}
+              {{ site.subtitle | escape }}
             {% endif %}
-            </li>
+	  </li>
+	    {% if site.address %}
+            <li>{{ site.address | escape}}</li>
+            {% endif %}
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
@@ -32,7 +33,14 @@
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
-          {% endif %}
+	  {% endif %}
+
+	  {% if site.google_scholar %}
+          <li>
+            {% include icon-google.html username=site.google_scholar %}
+          </li>
+	  {% endif %}
+	  
         </ul>
       </div>
 

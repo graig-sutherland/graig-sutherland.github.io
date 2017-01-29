@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-nohead
 title: CV
 permalink: /cv/
 order: 1
