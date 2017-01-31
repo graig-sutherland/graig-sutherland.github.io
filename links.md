@@ -5,7 +5,7 @@ permalink: /links/
 order: 3
 ---
 
-Here is a page of some of my favourite links:
+More links to come ...
 
-* [yr.no](http://yr.no): Norwegian weather forecasts
-* [met.no](http://met.no) Norwegian Meteorological Institute
+* [yr.no](http://yr.no): weather forecasts provided by the Norwegian Meteorological Institute
+* [met.no](http://met.no): homepage of the Norwegian Meteorological Institute
