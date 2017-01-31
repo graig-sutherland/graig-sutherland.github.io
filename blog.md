@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: Thoughts
 permalink: /_posts/
 order: 1
 ---
