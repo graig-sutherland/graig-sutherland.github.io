@@ -5,7 +5,7 @@ permalink: /pubs/
 order: 2
 ---
 
-### Refereed
+<!-- ### Refereed -->
 0. **Sutherland, G.**, J. Rabault and A. Jensen. A method to estimate reflection and directional spread using rotary spectra from accelerometers on large ice floes. *Journal of Atmospheric and Oceanic Technology*. Accepted.
 0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward. Parameterizing air-sea gas transfer with dissipation. *Journal of Geophysical Research: Oceans*. Accepted.
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. *Journal of Glaciology*. Accepted.
@@ -26,8 +26,8 @@ order: 2
 0. Foreman M.G.G., **G. Sutherland**, P.F. Cummins (2004).  M2 tidal dissipation around Vancouver Island: an inverse approach.  [*Continential Shelf Research*](http://www.sciencedirect.com/science/article/pii/S0278434304001700), 24(18), 2167-2185.
 {: reversed="reversed"}
 
-### Non-refereed
-0. Foreman, M.G.G., L. Beauchemin, J.Y. Cherniawsky, M. A. P&#x00E9;a, P. F. Cummins, and **G. Sutherland** (2005). A review of models
- in support of oil and gas exploration off the north coast of British Columbia. *Can. Tech. Rep. Fish. Aquat. Sci.* 2712: v + 58p.
-0. Rohr K.M.M. and **G. Sutherland** (2002).  A Reconnaissance AVO Study of the Queen Charlotte Basin. *CEOR Report 2002-3*. 
-{: reversed="reversed"}
+<!-- ### Non-refereed -->
+<!-- 0. Foreman, M.G.G., L. Beauchemin, J.Y. Cherniawsky, M. A. P&#x00E9;a, P. F. Cummins, and **G. Sutherland** (2005). A review of models -->
+<!--  in support of oil and gas exploration off the north coast of British Columbia. *Can. Tech. Rep. Fish. Aquat. Sci.* 2712: v + 58p. -->
+<!-- 0. Rohr K.M.M. and **G. Sutherland** (2002).  A Reconnaissance AVO Study of the Queen Charlotte Basin. *CEOR Report 2002-3*.  -->
+<!-- {: reversed="reversed"} -->
