@@ -8,7 +8,7 @@ order: 2
 <!-- ### Refereed -->
 0. **Sutherland, G.**, J. Rabault and A. Jensen. A method to estimate reflection and directional spread using rotary spectra from accelerometers on large ice floes. *Journal of Atmospheric and Oceanic Technology*. Accepted.
 0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward. Parameterizing air-sea gas transfer with dissipation. *Journal of Geophysical Research: Oceans*. Accepted.
-0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. *Journal of Glaciology*. Accepted.
+0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. [*Journal of Glaciology*](https://www.cambridge.org/core/journals/journal-of-glaciology/article/div-classtitlemeasurements-of-wave-damping-by-a-grease-ice-slick-in-svalbard-using-off-the-shelf-sensors-and-open-source-electronicsdiv/379C4B7F67CC03283E2AE0D7FAF68F34). 63(238), 372-381.
 0. **Sutherland G.**, T. Halsne, J. Rabault and A. Jensen (2017). The attenuation of monochromatic surface waves due to the presence of an inextensible cover. [*Wave Motion*](http://www.sciencedirect.com/science/article/pii/S0165212516301202). 68, 88-96.
 0. **Sutherland G.**, L. Mari&#x00E9;, G. Reverdin, K. Christensen, G. Brostr&#x00F6;m and B. Ward (2016). Enhanced turbulence associated with the diurnal jet in the ocean surface boundary layer. [*Journal of Physical Oceanography*](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-15-0172.1). 46(10), 3051-3067.
 0. Rabault J., **G. Sutherland**, B. Ward, K.H. Christensen, T. Halsne and A. Jensen (2016). Measurements of waves in
