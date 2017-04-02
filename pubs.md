@@ -5,7 +5,7 @@ permalink: /pubs/
 order: 2
 ---
 
-<!-- ### Refereed -->
+### Journal Articles
 0. **Sutherland, G.**, J. Rabault and A. Jensen. A method to estimate reflection and directional spread using rotary spectra from accelerometers on large ice floes (2017). [*Journal of Atmospheric and Oceanic Technology*](http://journals.ametsoc.org/doi/abs/10.1175/JTECH-D-16-0219.1). Accepted.
 0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward (2017). Parameterizing air-sea gas transfer with dissipation. [*Journal of Geophysical Research: Oceans*](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012088/full). Accepted.
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. [*Journal of Glaciology*](https://www.cambridge.org/core/journals/journal-of-glaciology/article/div-classtitlemeasurements-of-wave-damping-by-a-grease-ice-slick-in-svalbard-using-off-the-shelf-sensors-and-open-source-electronicsdiv/379C4B7F67CC03283E2AE0D7FAF68F34). 63(238), 372-381.
@@ -25,6 +25,12 @@ order: 2
 0. **Sutherland G.**, C. Garrett, M.G.G. Foreman (2005).  Tidal resonance in Juan de Fuca Strait and the Strait of Georgia. [*Journal of Physical Oceanography*](http://journals.ametsoc.org/doi/abs/10.1175/JPO2738.1), 35(7), 1279-1286.
 0. Foreman M.G.G., **G. Sutherland**, P.F. Cummins (2004).  M2 tidal dissipation around Vancouver Island: an inverse approach.  [*Continential Shelf Research*](http://www.sciencedirect.com/science/article/pii/S0278434304001700), 24(18), 2167-2185.
 {: reversed="reversed"}
+
+### Conference Proceedings
+0. Marchenko A., J. Rabault, **G. Sutherland**, C. O. Collins III, P. Wadhams and M. Chumakov (2017). Field observations and preliminary investigations of a wave event in solid drift ice in the Barents Sea. In [*POAC-17*](https://folk.uio.no/jeanra/Research/POAC2017_Wave_Event.pdf), Busan, South Korea.
+0. Rabault J., T. Halsne, **G. Sutherland** and A. Jensen (2016). PTV investigation of the mean drift currents under water waves. In [*18th International Symposium on the Applications of Laser and Imaging Technology in Fluid Mechanics*](http://ltces.dem.ist.utl.pt/lxlaser/lxlaser2016/finalworks2016/papers/03.16_5_168paper.pdf), Lisbon, Portugal.
+0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, E. S. Saltzman, K. H. Christensen, S. D. Miller and B. Ward (2016). The relationship between ocean surface turbulence and air-sea gas transfer velocity: An in-situ evalution. In [*IOP Conference Series: Earth and Environmental Science*](http://iopscience.iop.org/article/10.1088/1755-1315/35/1/012005), 35(1), p. 012005. Seatttle, USA.
+ {: reversed="reversed"}
 
 <!-- ### Non-refereed -->
 <!-- 0. Foreman, M.G.G., L. Beauchemin, J.Y. Cherniawsky, M. A. P&#x00E9;a, P. F. Cummins, and **G. Sutherland** (2005). A review of models -->
