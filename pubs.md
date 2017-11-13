@@ -6,7 +6,7 @@ order: 2
 ---
 
 ### Journal Articles
-0. ten Doeschate, A., **G. Sutherland**, L. Esters, D. Wain, K. Walesby and B. Ward. ASIP: Profiling the Upper Ocean. [*Oceanography*](). 30(2), 33-35.
+0. ten Doeschate, A., **G. Sutherland**, L. Esters, D. Wain, K. Walesby and B. Ward. ASIP: Profiling the Upper Ocean. [*Oceanography*](http://www.tos.org/oceanography/article/asip-profiling-the-upper-ocean). 30(2), 33-35.
 0. **Sutherland, G.**, J. Rabault and A. Jensen. A method to estimate reflection and directional spread using rotary spectra from accelerometers on large ice floes (2017). [*Journal of Atmospheric and Oceanic Technology*](http://journals.ametsoc.org/doi/abs/10.1175/JTECH-D-16-0219.1). 34(5), 1125-1137.
 0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward (2017). Parameterizing air-sea gas transfer with dissipation. [*Journal of Geophysical Research: Oceans*](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012088/full). 122(4), 3041-3056.
 0. Rabault J., **G. Sutherland**, O. Gundersen and A. Jensen (2017). Measurements of wave damping by grease ice using Open Source loggers. [*Journal of Glaciology*](https://www.cambridge.org/core/journals/journal-of-glaciology/article/div-classtitlemeasurements-of-wave-damping-by-a-grease-ice-slick-in-svalbard-using-off-the-shelf-sensors-and-open-source-electronicsdiv/379C4B7F67CC03283E2AE0D7FAF68F34). 63(238), 372-381.
