@@ -6,7 +6,12 @@ order: 2
 ---
 
 ### Journal Articles
-0. Esters, L., &#x00D8;. Breivik, S. Landwehr, A. ten Doeschate, **G. Sutherland**, K. H. Christensen, J.-R. Bidlot and B. Ward (2018). Turbulence scaling comparisons in the ocean surface boundary layer. [*Journal of Geophysical Research: Oceans*](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JC013525). Accepted.
+
+0. Rabault, J., **G. Sutherland**, O. Gundersen and A. Jensen (2020). An open source, versatile, affordable waves in ice instrument for remote sensing in the polar regions. [*Cold REgions and Science Technology*](link)., 170, 1943-1954.
+0. ten Doeschate, A., **G. Sutherland**, H. Bellenger, S. Landwehr, L. Esters and B. Ward(2019). Upper ocean response to rain observed from a vertical profiler. [*Journal of Geophysical Research*](link). 124(6), 36664-3881.
+0. **Sutherland, G.**, K. H. Christensen, J. Rabault and A. Jensen (2019). A two layer model for wave dissipation in sea ice. [*Applied Ocean Research*](link). 62, 1519-1533.
+0. Rabault, J., **G. Sutherland**, A. Jensen, K. H. Christensen (2019). Experiments on wave propagation in grease ice: Combined wave gauges and particle image velocimetry measurements. [*Journal of Fluid Mechanics*](link). 864, 876-898.
+0. Esters, L., &#x00D8;. Breivik, S. Landwehr, A. ten Doeschate, **G. Sutherland**, K. H. Christensen, J.-R. Bidlot and B. Ward (2018). Turbulence scaling comparisons in the ocean surface boundary layer. [*Journal of Geophysical Research: Oceans*](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JC013525). 123(3), 2172-2191.
 0. ten Doeschate, A., **G. Sutherland**, L. Esters, D. Wain, K. Walesby and B. Ward (2017). ASIP: Profiling the Upper Ocean. [*Oceanography*](http://www.tos.org/oceanography/article/asip-profiling-the-upper-ocean). 30(2), 33-35.
 0. **Sutherland, G.**, J. Rabault and A. Jensen (2017). A method to estimate reflection and directional spread using rotary spectra from accelerometers on large ice floes. [*Journal of Atmospheric and Oceanic Technology*](http://journals.ametsoc.org/doi/abs/10.1175/JTECH-D-16-0219.1). 34(5), 1125-1137.
 0. Esters L., S. Landwehr, **G. Sutherland**, T. G. Bell, K. H. Christensen, E. S. Saltzman, S. D. Miller and B. Ward (2017). Parameterizing air-sea gas transfer with dissipation. [*Journal of Geophysical Research: Oceans*](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012088/full). 122(4), 3041-3056.
